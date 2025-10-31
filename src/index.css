@@ -1,0 +1,9 @@
+/* src/index.css */
+/* This imports Tailwind v4’s entire layer system (base, components, utilities) */
+@import "tailwindcss";
+
+/* Optional: Add any custom styles below if needed */
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background-color: #f8fafc; /* light neutral */
+}
